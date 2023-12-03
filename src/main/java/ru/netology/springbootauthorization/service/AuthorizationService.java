@@ -5,6 +5,7 @@ import ru.netology.springbootauthorization.exception.InvalidCredentials;
 import ru.netology.springbootauthorization.exception.UnauthorizedUser;
 import ru.netology.springbootauthorization.model.Authorities;
 import ru.netology.springbootauthorization.repository.UserRepository;
+
 import java.util.List;
 
 @Service

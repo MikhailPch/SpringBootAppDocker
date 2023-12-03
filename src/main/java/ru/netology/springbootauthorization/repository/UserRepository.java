@@ -2,6 +2,7 @@ package ru.netology.springbootauthorization.repository;
 
 import org.springframework.stereotype.Repository;
 import ru.netology.springbootauthorization.model.Authorities;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
